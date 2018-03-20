@@ -1,3 +1,3 @@
 # Codewars
-##Various Katas
+## Various Katas
 Staying in practice
